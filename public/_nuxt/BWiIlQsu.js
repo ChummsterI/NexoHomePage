@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{o,c,m as n}from"./HHKnltDb.js";const r={},t={class:"px-6 sm:max-w-screen-sm md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl mx-auto w-full py-12"};function m(e,a){return o(),c("div",t,[n(e.$slots,"default")])}const x=s(r,[["render",m]]);export{x as _};
